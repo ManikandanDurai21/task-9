@@ -1,0 +1,81 @@
+.container{
+ width: 200px;
+ height: 300px;
+ border: 2px solid; 
+ background-color: rgb(108, 198, 226);
+color: rgba(255, 255, 255, 0.829);
+text-align: center;
+padding-top:10%;
+position: relative;
+}
+.heading-1{
+  text-transform: uppercase;
+  font-size: large;
+}
+.child-1{
+
+border: 2px solid rgb(248, 248, 248);
+position: absolute;
+top: 1.5%;
+left: 17%;
+}
+.child-2{
+  border: 2px solid rgb(248, 248, 248);
+  position: absolute;
+  top: 1.5%;
+  left: 32%;
+
+}
+.child-3{
+  border: 2px solid rgb(87, 166, 180);
+  position: absolute;
+  text-align: center;
+  top: 37%;
+  left: 17%;
+  height: 190px;
+  width: 180px;
+  padding-top: 5px;
+  font-size: xx-large;
+  text-transform: capitalize;
+  color: rgb(45, 93, 180);
+
+}
+.child-4{
+  border: 2px solid rgb(248, 248, 248);
+  position: absolute;
+  top: 37%;
+  left: 32%;
+
+
+
+
+}
+
+
+
+.child-5{
+ position: absolute;
+ top: 70%;
+  
+}
+.child-6{
+   position: absolute;
+   top: 70%;
+   left: 17%;
+   height: 200px;
+   width: 375px;
+   background-color: coral;
+   border: 2px solid white ;
+   text-align: center;
+   color: white;
+   font-size: 15px;
+   
+   
+
+}
+.heading-2{
+color: white;
+font-size: x-large;
+
+
+}
